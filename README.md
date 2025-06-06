@@ -1,2 +1,2 @@
 # OKAPI_Connection
-Connection to OKAPI. 
+Build the relations analytic-source.
